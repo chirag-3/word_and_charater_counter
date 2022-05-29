@@ -1,0 +1,43 @@
+h1{
+    /* width : 50%; */
+    margin : 10px auto;
+    
+    text-align:center;
+}
+
+#page{
+    width : 70%;
+    margin : 30px auto;
+    padding:0px;
+    height: 70%;
+}
+
+/* *{
+   border: black 1px solid;
+} */
+
+textarea{
+    width  : 80%;
+    margin-left:10%;
+    margin-right:10%;
+    height:70%;
+}
+
+body{
+   height:100vh;
+}
+
+span{
+    display:inline-block;
+    margin:5px 40%;
+}
+
+#page{
+    background-color: rgb(46, 238, 8);
+}
+
+h1{
+    color:white;
+    padding-top:25px;
+    /* border:1px black solid; */
+}
